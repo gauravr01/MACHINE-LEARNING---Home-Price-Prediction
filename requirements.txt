@@ -1,0 +1,9 @@
+pandas
+numpy
+Streamlit
+pickle 
+QuantileTransformer 
+matplotlib
+seaborn 
+sklearn
+
