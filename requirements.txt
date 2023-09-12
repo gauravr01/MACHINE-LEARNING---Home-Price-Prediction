@@ -1,8 +1,7 @@
 pandas
 numpy
-Streamlit 
-QuantileTransformer 
+Streamlit  
 matplotlib
 seaborn 
-sklearn
+scikit-learn
 
