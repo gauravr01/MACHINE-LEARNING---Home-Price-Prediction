@@ -1,7 +1,6 @@
 pandas
 numpy
-Streamlit
-pickle 
+Streamlit 
 QuantileTransformer 
 matplotlib
 seaborn 
